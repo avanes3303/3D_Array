@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/abcde/3D_Array/cmake-build-debug/test/tests[1]_tests.cmake")
+  include("C:/Users/abcde/3D_Array/cmake-build-debug/test/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()
