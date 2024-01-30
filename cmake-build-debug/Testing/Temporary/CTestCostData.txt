@@ -1,7 +1,0 @@
-ThreeDimensionalArrayTest.InputOutput 1 0.008399
-ThreeDimensionalArrayTest.Memory 1 0.0069477
-ThreeDimensionalArrayTest.RangeValues 1 0.0068473
-ThreeDimensionalArrayTest.Multiplication 1 0.0591601
-ThreeDimensionalArrayTest.Addition 1 0.0087471
-ThreeDimensionalArrayTest.Subtraction 1 0.0105975
----
